@@ -40,7 +40,7 @@ public class SpeedIncrease : MonoBehaviour
         else
         {
             
-            if (prevUpdateTime <= 0.1f)
+            if (prevUpdateTime <= 0.15f)
             {
                 hasMaxSpeed = true;
             }
